@@ -1,0 +1,29 @@
+
+Bill No.: 6419401
+------------------------------------------------------------------------
+Name: 2 Qty: 2 Price: 1116754411
+Name: 3 Qty: 2 Price: 1181116006
+Name: 2 Qty: 2 Price: 1116754411
+Name: 2 Qty: 2 Price: 1105954078
+Name: 2 Qty: 2 Price: 1213988864
+Name: 2 Qty: 5 Price: 1105954078
+Name: 2 Qty: 29.44 Price: 1105954078
+Name: 5 Qty: 386.4 Price: 1181116006
+Name: 2 Qty: 29.44 Price: 1105954078
+Name: 5 Qty: 72.16 Price: 1135114977
+Name: 2 Qty: 14745.6 Price: 1181116006
+Name: 5 Qty: 72.16 Price: 1105954078
+Name: 2 Qty: 29.44 Price: 1181116006
+Name: 5 Qty: 225280 Price: 1181116006
+Name: 2 Qty: 29.44 Price: 1105954078
+Name: 5 Qty: 29.44 Price: 1181116006
+Name: 25 Qty: 14745.6 Price: 11
+Name: 25 Qty: 29.44 Price: 45
+Name: 25 Qty: 336.96 Price: 629
+Name: 25 Qty: 14745.6 Price: 4
+Name: 25 Qty: 29.44 Price: 4
+Name: 23 Qty: 14745.6 Price: 4
+Name: 23 Qty: 14745.6 Price: 4
+Name: 2 Qty: 29.44 Price: 4
+Name: 2 Qty: 14745.6 Price: 4
+------------------------------------------------------------------------

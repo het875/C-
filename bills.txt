@@ -1,0 +1,22 @@
+Bill No: 1001
+Date and Time: Fri Feb 02 22:32:21 2024
+Customer Name: John
+Customer Address: 123 Main Street
+Customer Phone: 9876543210
+Item No	Item Name	Price	Quantity	Tax	Net Amount
+101	Pen	10	5	5	52.5
+102	Notebook	50	2	10	110
+103	Eraser	5	10	0	50
+Total Amount: 212.5
+
+Bill No: 1001
+Date and Time: Mon Feb 05 22:38:18 2024
+Customer Name: John
+Customer Address: 123 Main Street
+Customer Phone: 9876543210
+Item No	Item Name	Price	Quantity	Tax	Net Amount
+101	Pen	10	5	5	52.5
+102	Notebook	50	2	10	110
+103	Eraser	5	10	0	50
+Total Amount: 212.5
+
